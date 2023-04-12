@@ -189,6 +189,7 @@ Pagination
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  max-width: 800px !important;
 }
 .page-btn {
   width: 2rem;
