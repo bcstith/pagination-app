@@ -173,9 +173,9 @@ Pagination
 }
 
 .btn {
-  padding: 0.35rem 0.75rem;
+  padding: 0.30rem 0.70rem;
   letter-spacing: 1.6px;
-  font-size: 0.75rem;
+  font-size: 0.70rem;
   color: var(--clr-white);
   background: var(--clr-primary-5);
   border-radius: var(--radius);
